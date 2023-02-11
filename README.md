@@ -1,5 +1,5 @@
 # Aviation-Chart-Creation-Toolkit
-Charts, templates, and shape libraries included in photoshop (.PSD) format and .PNG
+Charts, templates, and shape libraries included as vectors in photoshop (.PSD) format for ease of editing.
 
 The majority of the fonts used are Futura, which is the font used by the FAA but is not included by default with most windows installations. I downloaded it here - https://freefontsfamily.com/futura-font-family-free/
 
