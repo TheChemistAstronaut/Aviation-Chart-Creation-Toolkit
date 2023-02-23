@@ -13,4 +13,6 @@ Included Charts / Templates -
 ![AIRPORT DIAGRAM TEMPLATE](https://user-images.githubusercontent.com/25518488/218267650-831e2f16-a8d8-4fc0-99df-2db3fcdf1453.png)
 
 VTOL VR MEDIUM AIRBASE (In the VTOL VR Folder as a .PNG and .PSD)
+
+![VTOL VR Medium Airbase Diagram](https://user-images.githubusercontent.com/25518488/218283732-fd2c19cc-32e0-4937-8c93-527f181f541d.png)
     Notes : Text labels on chart have been boldened for VR visibility. Runways labeled by default from the vanilla direction the airport spawns in without rotation (18/36), but the airport can be rotated and re-labeled as required. Taxiways labeled as modeled via taxiway signs in-game, with remaining unlabeled taxiways marked via subsequent letters of the alphabet
